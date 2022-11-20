@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Oyunmer
 - 👀 I’m interested in Playing/Developing Games
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning C#
 - 📫 How to reach me You Can't :D
 
 <!---
