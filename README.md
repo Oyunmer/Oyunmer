@@ -2,7 +2,7 @@
 - 👀 I’m interested in Playing/Developing Games
 - 🌱 I’m currently learning C#
 - 📫 How to reach me You Can't :D
-
+- [YouTube](www.youtube.com/user/Oyunmer.com)
 <!---
 Oyunmer/Oyunmer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
