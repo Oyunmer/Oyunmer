@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ByOyunmer
-- 👀 I’m interested in Playing/Developing Games
-- 🌱 I’m currently learning C#
-- 📫 How to reach me You Can't :D
+- 👀 I’m interested in Playing/Developing Games or Plugins to games such as Minecraft
+- 🌱 Currently learning: C#
 <!---
 Oyunmer/Oyunmer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
