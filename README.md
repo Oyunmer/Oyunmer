@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm ByOyunmer(Oyunmer)</h1>
-<h3 align="center">A passionate game developer from Türkiye</h3>
+<h3 align="center">I do stuff</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oyunmer&label=Profile%20views&color=0e75b6&style=flat" alt="oyunmer" /> </p>
 
 - 🌱 I’m currently learning **C++**
 
-- 📫 How to reach me **alalokum@gmail.com**
+- 📫 How to reach me **mertomerkapcik@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
